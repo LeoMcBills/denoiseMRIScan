@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''a simple python script demonstrating Total Variation denoising 
-using opencv, numpy and scipy'''
+using opencv, numpy and scipy which might not be feasible for our prototype'''
 
 import cv2
 from scipy.signal import convolve2d
